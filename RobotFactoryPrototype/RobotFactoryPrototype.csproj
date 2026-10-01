@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
-namespace ConsoleApp3
-{
-    class RobotFactoryPrototype
-    {
-    }
-}
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	
+
+</Project>

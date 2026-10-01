@@ -8,8 +8,8 @@ namespace RobotFactoryPrototype
         static void Main(string[] args)
         {
          
-            Console.WriteLine("         ROBOT FACTORY SYSTEM");
-            Console.WriteLine("        PROTOTYPE DESIGN PATTERN");
+            Console.WriteLine("ROBOT FACTORY SYSTEM");
+            Console.WriteLine("PROTOTYPE DESIGN PATTERN");
             
 
 
